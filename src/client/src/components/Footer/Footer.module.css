@@ -1,0 +1,55 @@
+.footer{
+    padding: 112px 64px 32px 64px;
+}
+
+.newsletter{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 0;
+}
+
+.subscription{
+    display: flex;
+    justify-content: space-between;
+}
+
+.subscription input{
+    width: 60%;
+}
+
+.subscription button{
+    padding: 12px 35px;
+}
+
+.links{
+    padding: 60px 0;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.links_block{
+    width: 12.7%;
+}
+
+.links p {
+    margin: 32px 0;
+}
+
+.links ul{
+    font-size: 14px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.links ul li{
+    margin: 16px 0;
+}
+
+.credits{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

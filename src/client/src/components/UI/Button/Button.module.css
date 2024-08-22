@@ -1,0 +1,31 @@
+.Outlined{
+    border: 2px solid #000000;
+    background-color: transparent;
+    padding: 12px 25px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Outlined:hover{
+    background-color: #000000;
+    color: #ffffff;
+    transition: 0.2s ease;
+
+}
+
+.Filled{
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 12px 25px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Filled:hover{
+    background-color: transparent;
+    color:#000000;
+    transition: 0.3s ease;
+}

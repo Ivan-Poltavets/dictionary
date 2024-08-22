@@ -1,0 +1,39 @@
+.header{
+    padding: 112px 64px;
+}
+
+.header_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header_content img {
+    width: 616px;
+}
+
+.header_content_text{
+    width: 45%;
+}
+
+.features{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 112px 64px;
+    text-align: center;
+}
+
+.features_desc{
+    display: flex;
+    margin-top: 40px;
+}
+
+.features_desc_block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 405px;
+}
